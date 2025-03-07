@@ -1,5 +1,5 @@
 #
-# Update: 2025-02-13 02:21:58
+# Update: 2025-03-07
 #
 
 [General]
@@ -12,6 +12,10 @@ ipv6 = true
 
 [Rule]
 DOMAIN-SUFFIX,cn,DIRECT
+
+# 直连设置 DOMAIN-SUFFIX,,DIRECT
+DOMAIN-SUFFIX,ctbcbank.com,DIRECT
+DOMAIN-SUFFIX,chinatrust.com.tw,DIRECT
 
 # chinalist
 DOMAIN-SUFFIX,ctldl.windowsupdate.com,DIRECT
