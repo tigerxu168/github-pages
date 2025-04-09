@@ -9,6 +9,12 @@ ipv6 = true
 [Rule]
 DOMAIN-SUFFIX,cn,DIRECT
 
+# 直连设置
+# 银行
+DOMAIN-SUFFIX,pingan.com,DIRECT
+DOMAIN-SUFFIX,ctbcbank.com,DIRECT
+DOMAIN-SUFFIX,ctbc.com.tw,DIRECT
+
 # chinalist
 DOMAIN-SUFFIX,ctldl.windowsupdate.com,DIRECT
 DOMAIN-SUFFIX,update.googleapis.com,DIRECT
