@@ -10,11 +10,12 @@ ipv6 = true
 DOMAIN-SUFFIX,cn,DIRECT
 
 # 直连设置
-# 银行
+# 银行 / 证券
 DOMAIN-SUFFIX,pingan.com,DIRECT
 DOMAIN-SUFFIX,ctbcbank.com,DIRECT
 DOMAIN-SUFFIX,ctbc.com.tw,DIRECT
 DOMAIN-SUFFIX,ctbcsec.com,DIRECT
+DOMAIN-SUFFIX,mitake.com.tw,DIRECT
 
 # chinalist
 DOMAIN-SUFFIX,ctldl.windowsupdate.com,DIRECT
